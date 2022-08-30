@@ -1,4 +1,4 @@
-//We select the div container that will have all the divs that later will become the grid
+//We select the div container that will have all the divs that later will become the grid.
 let div = document.querySelector(".container")
 //When the user passes the mouse over the container we call the colorSquare function 
 div.addEventListener('mouseover', colorSquare);
